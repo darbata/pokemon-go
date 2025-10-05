@@ -1,0 +1,5 @@
+poke/producer/controllers/ProducerController.class
+poke/producer/config/KafkaProducerConfig.class
+poke/producer/ProducerApplication.class
+poke/producer/dto/Coordinates.class
+poke/producer/services/KafkaProducerService.class

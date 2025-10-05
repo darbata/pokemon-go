@@ -1,0 +1,6 @@
+/Users/darbata/Developer/SIT315/pokemon-go/producer/src/main/java/poke/producer/ProducerApplication.java
+/Users/darbata/Developer/SIT315/pokemon-go/producer/src/main/java/poke/producer/components/Hasher.java
+/Users/darbata/Developer/SIT315/pokemon-go/producer/src/main/java/poke/producer/config/KafkaProducerConfig.java
+/Users/darbata/Developer/SIT315/pokemon-go/producer/src/main/java/poke/producer/controllers/ProducerController.java
+/Users/darbata/Developer/SIT315/pokemon-go/producer/src/main/java/poke/producer/dto/Coordinates.java
+/Users/darbata/Developer/SIT315/pokemon-go/producer/src/main/java/poke/producer/services/KafkaProducerService.java

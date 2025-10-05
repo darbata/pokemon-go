@@ -1,0 +1,16 @@
+package poke.aggregator.configs;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import software.amazon.awssdk.regions.Region;
+import software.amazon.awssdk.services.s3.S3Client;
+
+@Configuration
+class AwsConfig {
+    @Bean
+    S3Client s3Client() {
+        return S3Client.builder()
+                .region(Region.AP_SOUTHEAST_2) // set your region
+                .build();
+    }
+}

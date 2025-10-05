@@ -1,0 +1,10 @@
+poke/consumer/dto/Cell.class
+poke/consumer/config/KafkaConsumerConfig.class
+poke/consumer/components/SparseMatrix.class
+poke/consumer/ConsumerApplication.class
+poke/consumer/config/KafkaProducerConfig.class
+poke/consumer/service/KafkaConsumerService.class
+poke/consumer/config/AwsConfig.class
+poke/consumer/service/KafkaProducerService.class
+poke/consumer/dto/CellCount.class
+poke/consumer/dto/SparseMatrixMessage.class

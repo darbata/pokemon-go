@@ -1,0 +1,10 @@
+/Users/darbata/Developer/SIT315/pokemon-go/consumer/src/main/java/poke/consumer/ConsumerApplication.java
+/Users/darbata/Developer/SIT315/pokemon-go/consumer/src/main/java/poke/consumer/components/SparseMatrix.java
+/Users/darbata/Developer/SIT315/pokemon-go/consumer/src/main/java/poke/consumer/config/AwsConfig.java
+/Users/darbata/Developer/SIT315/pokemon-go/consumer/src/main/java/poke/consumer/config/KafkaConsumerConfig.java
+/Users/darbata/Developer/SIT315/pokemon-go/consumer/src/main/java/poke/consumer/config/KafkaProducerConfig.java
+/Users/darbata/Developer/SIT315/pokemon-go/consumer/src/main/java/poke/consumer/dto/Cell.java
+/Users/darbata/Developer/SIT315/pokemon-go/consumer/src/main/java/poke/consumer/dto/CellCount.java
+/Users/darbata/Developer/SIT315/pokemon-go/consumer/src/main/java/poke/consumer/dto/SparseMatrixMessage.java
+/Users/darbata/Developer/SIT315/pokemon-go/consumer/src/main/java/poke/consumer/service/KafkaConsumerService.java
+/Users/darbata/Developer/SIT315/pokemon-go/consumer/src/main/java/poke/consumer/service/KafkaProducerService.java
